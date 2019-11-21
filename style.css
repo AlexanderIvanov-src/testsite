@@ -1,0 +1,50 @@
+body {
+    font-family: "Arial";
+    font-size: 14px;
+    line-height: 18px;
+    color: #000000;
+    padding: 0;
+    margin: 0;
+    width: 1024px;
+    margin: 1px auto;
+  }
+
+.shapka {
+    height: 98px;
+    background: url("img/shapka.png");
+    outline: #000000 solid 1px;
+}
+
+.front-header {
+    font-family: "Comic Sans MS";
+    padding-left: 50px;
+    padding-top: 31px;
+}
+
+h1 {
+    margin: 0;
+    font-size: 36px;
+    line-height: 36px;
+    color: #3d3d3d;
+}
+
+.sidemenu {
+    width: 200px;
+    padding: 20px;
+    margin-top: 3px;
+    outline: #000000 solid 1px;
+}
+
+.mainbody {
+    outline: #000000 solid 1px;
+    margin-left: 243px;
+    margin-top: 3px;
+}
+
+h3 {
+    margin: auto;
+    padding: 20px;
+    font-size: 36px;
+    line-height: 36px;
+    color: #3d3d3d;
+}
